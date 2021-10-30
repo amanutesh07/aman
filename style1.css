@@ -1,4 +1,4 @@
-.search{
+search{
     margin-top: 30px;
     align-items: center;
     width: 1200px;
@@ -20,11 +20,6 @@
     justify-content: center;
     background-color: rgb(233, 153, 33);
     height: 100px;
-}
-.usu{
-    /* width:200px; */
-    /* height: 10px; */
-    
 }
 .heead{
     height: 40px;
