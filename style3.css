@@ -75,9 +75,7 @@ body{
     .uusu{
         width: 400px; margin-left: 10px;
     }
-    img{
-        /* padding-left: 10px; */
-    }
+    
     .suretWidth{
         width: 400px;
     }
@@ -99,4 +97,3 @@ body{
         padding-left: 50px;
         /* width: 350px; */
     }
-}
